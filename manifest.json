@@ -1,5 +1,5 @@
 {
-  "name": "CONSERTO",
+  "name": "CONSERTO PRECO",
   "short_name": "CONSERTO",
   "start_url": "./",
   "display": "standalone",
@@ -19,3 +19,4 @@
   ]
 
 }
+
